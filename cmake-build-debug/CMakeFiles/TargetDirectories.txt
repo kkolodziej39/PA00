@@ -1,0 +1,3 @@
+/mnt/c/Users/Kyle/CLionProjects/PA00/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Kyle/CLionProjects/PA00/cmake-build-debug/CMakeFiles/PA00.dir
+/mnt/c/Users/Kyle/CLionProjects/PA00/cmake-build-debug/CMakeFiles/edit_cache.dir
